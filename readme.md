@@ -66,6 +66,5 @@
  - 文件复制 fs.createReadStream() 、fs.createWriteStream();
  - 调用可读流的pipe方法，传入一个可写流对象。rs.pipe(ws);
  
----
 
 
