@@ -19,6 +19,7 @@
   "homepage": "https://github.com/lishenhello/node_study#readme",
   "dependencies": {
     "chalk": "^2.4.1",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "utility": "^1.15.0"
   }
 }
