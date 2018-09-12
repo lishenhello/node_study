@@ -1,3 +1,4 @@
+// 搭建服务
 // 使用node搭建一个原生的http服务
 const http = require('http'); // 引入http服务模块
 const chalk = require('chalk'); // 控制台输出颜色语句的插件

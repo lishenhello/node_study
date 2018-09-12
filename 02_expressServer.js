@@ -6,7 +6,7 @@ const app = require('express')();
 const chalk = require('chalk');
 
 // 发送请求并响应
-// 这里不能省略req。。否则报错
+// 严格按照格式语法书写，这里不能省略req。。否则报错
 app.get('/', (req, res) => {
 	res.writeHead('200', {'Content-Type': 'text/plain;charset=utf-8;'});
 	res.end('hello express!');
